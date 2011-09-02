@@ -1,0 +1,5 @@
+This is a project to learn text parsing in various languages, as it relates to
+hostnames and IP addresses.
+
+The idea is that this will grow in to use-able modules and have per-language
+forks
